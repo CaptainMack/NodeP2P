@@ -1,0 +1,24 @@
+{
+  "name": "nodep2p",
+  "version": "0.0.0",
+  "description": "P2P in Nodejs",
+  "main": "peer.js",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "express": "~3.4.8",
+    "jade": "~1.1.4",
+    "xmlrpc": "~1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "/",
+    "start": "node peer.js"
+  },
+  "keywords": [
+    "peer-to-peer"
+  ],
+  "author": "jstougaard",
+  "license": "ISC"
+}

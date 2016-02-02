@@ -1,0 +1,1 @@
+COMPANY: Kovacek-Konopelski -- Extended heuristic parallelism
